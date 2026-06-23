@@ -1,14 +1,6 @@
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=NozySlay&count_private=true&include_all_commits=true&show_icons=true&theme=midnight-purple&icon_color=fff&hide_border=true" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
-<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=NozySlay&theme=midnight-purple&layout=compact&hide_border=true&langs_count=10&exclude_repo=mcp1.8.9op" alt="You shouldn't be seeing this. Github Readme Stats failed to load.">
-<img width="50%" align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=NozySlay&theme=midnight-purple&hide_border=true" alt="You shouldn't be seeing this. Github Readme Streak Stats failed to load.">
-<img width="50%" height="1px" align="right" src="https://i.imgur.com/DkKayja.png">
-<img width="50%" align="right" src="https://github-readme-activity-graph.cyclic.app/graph?username=NozySlay&bg_color=000000&color=5e2b99&line=5e2b99&point=ffffff&area=true&hide_border=true" alt="You shouldn't be seeing this. Activity Graph failed to load.">
-
 ## About Me
 - self taught full-stack developer.
 - NozySlay#0323, no other socials.
-
-<img src="https://visitor-badge.glitch.me/badge?page_id=NozySlay&color=000&text=Visitors&style=for-the-badge&logo=GitBook&logoColor=white&left_color=black&right_color=purple" alt="Visitor Badge">
 
 ## Languages
 ![](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)
